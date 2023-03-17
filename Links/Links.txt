@@ -1,0 +1,15 @@
+--------------------------YOUTUBE---------------------------------
+
+	1. https://youtu.be/SqcY0GlETPk?t=1
+		=> Quick React Course - 1 Hr
+
+-------------------------Others---------------------------------
+	
+	1. https://101blockchains.com/become-solidity-developer/
+		=> Blockchain dev roadmap and details
+	
+	2. https://www.investopedia.com/terms/e/ethereum.asp
+		=> About Ethereum and its working
+
+	3. https://www.investopedia.com/terms/b/blockchain.asp
+		=> About Blockchain
